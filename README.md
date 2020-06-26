@@ -6,8 +6,9 @@ A simple data deduplicator on linux and windows platforms
 2. Python
 
 #How to run
-1. On Linux 
-    run the "launch.py" file directly or open a terminal, navigate to the folder and run "python launch.py" command on console.
+
+1. For Linux,
+get the linux.tar file extract it to a desired folder and run the "launch.py" file directly or open a terminal, navigate to the folder and run "python launch.py" command on console.
     
-2. On Windows
-    run the launch.exe file directly
+2. For Windows,
+get the windows.zip folder extract it to desired folder and run the launch.exe file directly
