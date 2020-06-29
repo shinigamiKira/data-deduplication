@@ -1,11 +1,11 @@
 # data-deduplication
 A simple data deduplicator on linux and windows platforms
 
-#Dependencies
+**Dependencies**
 1. Java
 2. Python
 
-#How to run
+**How to run**
 
 1. For Linux,
 get the linux.tar file extract it to a desired folder and run the "launch.py" file directly or open a terminal, navigate to the folder and run "python launch.py" command on console.
